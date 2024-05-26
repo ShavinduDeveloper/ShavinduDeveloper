@@ -58,7 +58,7 @@
 ---
 <br>
 
-### Languages and Tools:
+### Languages :
 
 <br>
 
@@ -154,6 +154,13 @@
     <th>XML</th>
   </tr>
 </table>
+
+---
+<br>
+
+###  Tools and Softwares :
+
+<br>
 
 <table>
   <tr>
