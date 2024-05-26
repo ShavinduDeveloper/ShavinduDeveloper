@@ -6,7 +6,7 @@
   
   ---
   
-  <p>
+  <p align="justify">
     I'm <b>Shavindu Thushara Sampath</b>. I am an <b>undergraduate 4th-year student</b> at the <b>University of Sri Jayewardenepura</b>, With a passion for design and a keen eye for detail, I am eager to contribute to your team and further develop my skills in these areas.
     <br><br>
     In pursuing <b>UX / UI Design</b> and <b>3D Modeling</b>, I have honed my abilities through both academic training and practical experience. After completing courses in user-centered design principles and interface prototyping, I have cultivated a solid foundation for creating intuitive and visually appealing user experiences. Additionally, my proficiency in <b>Adobe Creative Suite</b> and familiarity with <b>UX / UI design</b> tools such as <b>Adobe XD</b> and <b>Figma</b> enable me to effectively translate concepts into compelling designs.
@@ -15,12 +15,25 @@
     Furthermore, my experience in <b>3D modeling</b> adds another dimension to my skill set. Having worked on various projects ranging from architectural visualization to product design, I have gained proficiency in industry-standard software such as <b>Blender</b> and <b>Autodesk Maya</b>. I am adept at creating realistic 3D models and animations, ensuring attention to detail and adherence to project specifications. 
     <br>
     <br>
-    Portfolio : https://brave-coast-0edf55500.4.azurestaticapps.net/
-    <br>
-    <br>
+    Portfolio Website : 
+    
+    https://brave-coast-0edf55500.4.azurestaticapps.net/
+  <p align="center">You can use above Link to View My <b>Portfolio Website</b> or You can Click ( <a href="https://brave-coast-0edf55500.4.azurestaticapps.net/">Portfolio Website</a> ) this URL </p>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShavinduDeveloper&hide=TeX&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&theme=tokyonight">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShavinduDeveloper&hide=TeX&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&theme=tokyonight">
+    </td>
+    <td>
+    
+  [![ShavinduDeveloper](https://github-readme-stats.vercel.app/api?username=ShavinduDeveloper\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/ShavinduDeveloper)
+    </td>
+  </tr>
+</table>
+
+
 
   
 <h3 align="left">Languages and Tools:</h3>
@@ -30,8 +43,6 @@
 
 #### Responsive Card Theme
 
-[![ShavinduDeveloper](https://github-readme-stats.vercel.app/api?username=ShavinduDeveloper\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/ShavinduDeveloper)
-[![ShavinduDeveloper](https://github-readme-stats.vercel.app/api?username=ShavinduDeveloper\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/ShavinduDeveloper)
 
 
 *   Customizing repo card
